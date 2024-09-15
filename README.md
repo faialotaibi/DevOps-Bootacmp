@@ -63,11 +63,9 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 
 | Week | Day | Lesson | Lap | Homework |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week 1| 1  |  [Introduction](https://docs.google.com/presentation/d/117KIddtXzbzNW-6y8GK1UYKCjLWcdxRnHH5d4E_3b_8/edit?usp=sharing) | ... | ... |
+| Week 1| 1  |  [Introduction](https://docs.google.com/presentation/d/117KIddtXzbzNW-6y8GK1UYKCjLWcdxRnHH5d4E_3b_8/edit?usp=sharing) <br> Git Overview <br>  [Version Control Systems](https://www.atlassian.com/git/tutorials/what-is-version-control) <br>  [Install Git](https://www.atlassian.com/git/tutorials/install-git) | ... | ... |
 | Week 1| 2  |  ... | ... | ... |
 | Week 1| 3  |  ... | ... | ... |
-| Week 1| 4  |  ... | ... | ... |
-| Week 1| 5  |  ... | ... | ... |
 | Week 2| 1  |  ... | ... | ... |
 | Week 2| 2  |  ... | ... | ... |
 | Week 2| 3  |  ... | ... | ... |
