@@ -58,36 +58,36 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 * Work hard.
 * Ask questions.
 * Be supportive.
-* Talk to us
+* Talk to us.
 
 
 | Week | Day | Lesson | Labs | Homeworks & Additional Resources |
 |:------|:--|:----|:------|:-----|
-| Week 1| 1  |  1. [Introduction](https://docs.google.com/presentation/d/117KIddtXzbzNW-6y8GK1UYKCjLWcdxRnHH5d4E_3b_8/edit?usp=sharing) <br> 2. Git Overview <br>  3. [Version Control Systems](https://www.atlassian.com/git/tutorials/what-is-version-control) <br>  4. [Install Git](https://www.atlassian.com/git/tutorials/install-git) |  | 1. [Intro to Git Course](https://satr.codes/course/nindivqslr/view) |
-| Week 1| 2  |  1. [Basic commands:](https://www.atlassian.com/git/tutorials/setting-up-a-repository) init, add, commit, log, status, diff, stash, .gitignore, tag, config <br> 2. [Git Branches](https://www.atlassian.com/git/tutorials/using-branches): git branch, checkout <br> 3. [Git Merge and Rebase:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) rebase vs. merge, git merge, fast forward, three way merge, conflicts <br>  | 1. [Git Merge Lab](https://satr.codes/course/UFsXqimdgm/session/c0ff923b-d304-4189-acee-af36ca3261ec/view) <br> 2. [Git Rebase Lab](https://satr.codes/course/vZnxaKXPzw/session/26c3eec4-0bb9-4a16-a90a-4c9bd47ad348/view) <br> 3. [Git Rebase Lab 2](https://satr.codes/course/vZnxaKXPzw/session/2c08d677-c4e6-4d35-b1e4-3841bf773ee0/view) | 1. [Git Branches and Merge Course](https://satr.codes/course/UFsXqimdgm/view) <br> 2. [Git Rebase Course](https://satr.codes/course/vZnxaKXPzw/view)|
-| Week 1| 3  |  1. [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick) <br> 2. [Deep Dive:](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting) reset, revert and checkout <br> 3. [Git Remote:](https://www.atlassian.com/git/tutorials/syncing) clone, pull, push, fork, pull request | 1. [Git Remote Lab](https://satr.codes/course/QpuMhOuMhW/session/ce9acb7a-e4f6-4a80-857d-b6c7de898d94/view) | 1. [Git Remote Course](https://satr.codes/course/QpuMhOuMhW/view) <br> 2. [Review Git Course](https://satr.codes/course/ZlKLfufzmW/view) <br> 3. [Git Cheat Sheet](https://drive.google.com/file/d/1TqoOIS9zFlT_HuwZeWESXiiEh1NQ3THi/view?usp=sharing)|
-| Week 2| 1  | 1. Virtualization vs. Containerization <br> 2. [Docker and Docker Components Overview](https://docs.docker.com/get-started/docker-overview/) <br> 3. [Docker Images Overview](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-an-image/) <br> 4. [Docker Containers Overview](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/) <br> 5. [Docker Volumes Overview](https://docs.docker.com/engine/storage/volumes/) <br> 6. [Docker Networking Overview](https://docs.docker.com/engine/network/) <br> 7. [Docker Setup](https://www.docker.com/get-started/) <br> 8. Docker Images and Containers in action: <br> Docker Basic commands -> pull, run, ls, exec, exit, attach, kill, rm | 1. [Lab](https://satr.codes/course/RWuHfOReeA/session/2d5a80d1-59f0-432d-80f2-9c0adda84066/view) | 1. [Play with Docker Enviironment](https://labs.play-with-docker.com/?_gl=1*mj4rto*_gcl_au*MTAzMjk1MDg0My4xNzIzNjIyNzEw*_ga*NjAyODM3NjcwLjE2OTgwNDUyNjI.*_ga_XJWPQMJYHQ*MTcyNjQ3OTg5Mi4zOC4wLjE3MjY0Nzk4OTIuNjAuMC4w) <br> 2. [Intro to Docker Course](https://satr.codes/course/RWuHfOReeA/view) <br> 3. [Docker Cheat Sheet](https://drive.google.com/file/d/1AWkYysalX4G8hedj6pzW0IP26NOAk9Qb/view?usp=sharing)|
-| Week 2| 2  |  1. [Yaml Overview](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) <br> 2. [Dockerfile](https://docs.docker.com/build/concepts/dockerfile/) <br> 3. Docker Deep Dive:  build, caching, tags, size, inspect, OS Arch , push | 1. [Lab](https://satr.codes/course/sZvvvDJlNy/session/b94c5ddf-1821-4ed4-b8b7-7cd3e445a94b/view) | 1. [YAML Course](https://satr.codes/course/dhyKzxwfvT/view) <br> 2. [Build and Share Docker Images Course](https://satr.codes/course/sZvvvDJlNy/view) |
-| Week 2| 3  |  1. [Docker Volumes in action](https://docs.docker.com/engine/storage/volumes/) <br> 2. [Docker Networking in action](https://docs.docker.com/engine/network/)  | 1. [Volumes Lab](https://dockerlabs.collabnix.com/beginners/volume/managing-volumes-via-docker-cli.html) <br> 2. [Volumes Lab](https://dockerlabs.collabnix.com/beginners/volume/creating-volume-mount-from-dockercli.html) <br> 3. [Networks Lab](https://dockerlabs.collabnix.com/beginners/using-docker-network.html) |  |
-| Week 2| 4  |  1. Multi Container Application with Docker <br> 2. [Multi Container Application with Docker Compose](https://docs.docker.com/compose/intro/features-uses/)  | 1. [Lab](https://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/Create_first_docker-compose_file_with_ngnix_and_mysql.html) | 1. [Docker Compose Installation](https://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/How_to_Install_Docker_Compose.html) |
-| Week 2| 5  |  [Docker and Docker Compose Exercise](https://drive.google.com/file/d/1CFbnccik2Kh2u6c064Z86iMw8BPdRrZu/view?usp=sharing) |  |  |
-| Week 3| 1  |  ... | ... | ... |
-| Week 3| 2  |  ... | ... | ... |
-| Week 3| 3  |  ... | ... | ... |
-| Week 3| 4  |  ... | ... | ... |
-| Week 3| 5  |  ... | ... | ... |
-| Week 4| 1  |  ... | ... | ... |
-| Week 4| 2  |  ... | ... | ... |
-| Week 4| 3  |  ... | ... | ... |
-| Week 4| 4  |  ... | ... | ... |
-| Week 4| 5  |  ... | ... | ... |
-| Week 5| 1  |  ... | ... | ... |
-| Week 5| 2  |  ... | ... | ... |
-| Week 5| 3  |  ... | ... | ... |
-| Week 5| 4  |  ... | ... | ... |
-| Week 5| 5  |  ... | ... | ... |
-| Week 6| 1  |  ... | ... | ... |
-| Week 6| 2  |  ... | ... | ... |
-| Week 6| 3  |  ... | ... | ... |
-| Week 6| 4  |  ... | ... | ... |
-| Week 6| 5  |  ... | ... | ... |
+| Week1| 1  |  <ol><li> [Introduction](https://docs.google.com/presentation/d/117KIddtXzbzNW-6y8GK1UYKCjLWcdxRnHH5d4E_3b_8/edit?usp=sharing) </li> <li> Git Overview </li> <li> [Version Control Systems](https://www.atlassian.com/git/tutorials/what-is-version-control) </li> <li> [Install Git](https://www.atlassian.com/git/tutorials/install-git) </li> </ol>|  |<ol><li> [Intro to Git Course](https://satr.codes/course/nindivqslr/view) </li>|
+| Week1| 2  |  <ol><li> [Basic commands:](https://www.atlassian.com/git/tutorials/setting-up-a-repository) init, add, commit, log, status, diff, stash, .gitignore, tag, config </li> <li> [Git Branches](https://www.atlassian.com/git/tutorials/using-branches): git branch, checkout </li> <li> [Git Merge and Rebase:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) rebase vs. merge, git merge, fast forward, three way merge, conflicts </li></ol>  | <ol><li> [Git Merge Lab](https://satr.codes/course/UFsXqimdgm/session/c0ff923b-d304-4189-acee-af36ca3261ec/view) </li> <li> [Git Rebase Lab](https://satr.codes/course/vZnxaKXPzw/session/26c3eec4-0bb9-4a16-a90a-4c9bd47ad348/view) </li>  </li> [Git Rebase Lab 2](https://satr.codes/course/vZnxaKXPzw/session/2c08d677-c4e6-4d35-b1e4-3841bf773ee0/view) | <ol><li> [Git Branches and Merge Course](https://satr.codes/course/UFsXqimdgm/view) </li> <li> [Git Rebase Course](https://satr.codes/course/vZnxaKXPzw/view) </li></ol>|
+| Week1| 3  |  <ol><li> [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick) </li> <li> [Deep Dive:](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting) reset, revert and checkout </li> <li> [Git Remote:](https://www.atlassian.com/git/tutorials/syncing) clone, pull, push, fork, pull request </li> | <ol> <li> [Git Remote Lab](https://satr.codes/course/QpuMhOuMhW/session/ce9acb7a-e4f6-4a80-857d-b6c7de898d94/view)</li> | <ol><li> [Git Remote Course](https://satr.codes/course/QpuMhOuMhW/view) </li>  <li> [Review Git Course](https://satr.codes/course/ZlKLfufzmW/view) <li></li> [Git Cheat Sheet](https://drive.google.com/file/d/1TqoOIS9zFlT_HuwZeWESXiiEh1NQ3THi/view?usp=sharing)|
+| Week2| 1  | <ol><li> Virtualization vs. Containerization </li><li> [Docker and Docker Components Overview](https://docs.docker.com/get-started/docker-overview/) </li> <li> [Docker Images Overview](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-an-image/) </li><li> [Docker Containers Overview](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/) </li><li> [Docker Volumes Overview](https://docs.docker.com/engine/storage/volumes/) </li><li> [Docker Networking Overview](https://docs.docker.com/engine/network/) </li><li> [Docker Setup](https://www.docker.com/get-started/) </li><li> Docker Images and Containers in action: <br> Docker Basic commands -> pull, run, ls, exec, exit, attach, kill, rm </ol>| <ol><li> [Lab](https://satr.codes/course/RWuHfOReeA/session/2d5a80d1-59f0-432d-80f2-9c0adda84066/view)</li></ol> | <ol><li> [Play with Docker Environment](https://labs.play-with-docker.com/?_gl=1*mj4rto*_gcl_au*MTAzMjk1MDg0My4xNzIzNjIyNzEw*_ga*NjAyODM3NjcwLjE2OTgwNDUyNjI.*_ga_XJWPQMJYHQ*MTcyNjQ3OTg5Mi4zOC4wLjE3MjY0Nzk4OTIuNjAuMC4w) </li><li> [Intro to Docker Course](https://satr.codes/course/RWuHfOReeA/view) </li><li> [Docker Cheat Sheet](https://drive.google.com/file/d/1AWkYysalX4G8hedj6pzW0IP26NOAk9Qb/view?usp=sharing) </li></ol>|
+| Week2| 2  |  <ol><li> [Yaml Overview](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) </li><li> [Dockerfile](https://docs.docker.com/build/concepts/dockerfile/) </li><li> Docker Deep Dive:  build, caching, tags, size, inspect, OS Arch , push </li></ol> | <ol><li> [Lab](https://satr.codes/course/sZvvvDJlNy/session/b94c5ddf-1821-4ed4-b8b7-7cd3e445a94b/view) </li></ol> | <ol><li> [YAML Course](https://satr.codes/course/dhyKzxwfvT/view) </li><li> [Build and Share Docker Images Course](https://satr.codes/course/sZvvvDJlNy/view) </li></ol> |
+| Week2| 3  |  <ol><li> [Docker Volumes in action](https://docs.docker.com/engine/storage/volumes/) </li><li> [Docker Networking in action](https://docs.docker.com/engine/network/) </li></ol> | <ol><li> [Volumes Lab](https://dockerlabs.collabnix.com/beginners/volume/managing-volumes-via-docker-cli.html) </li><li> [Volumes Lab](https://dockerlabs.collabnix.com/beginners/volume/creating-volume-mount-from-dockercli.html) </li><li>[Networks Lab](https://dockerlabs.collabnix.com/beginners/using-docker-network.html)</li></ol> |  |
+| Week2| 4  |  <ol><li> Multi Container Application with Docker </li><li> [Multi Container Application with Docker Compose](https://docs.docker.com/compose/intro/features-uses/) </li></ol> | <ol><li> [Lab](https://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/Create_first_docker-compose_file_with_ngnix_and_mysql.html) </li></ol> | <ol><li> [Docker Compose Installation](https://dockerlabs.collabnix.com/intermediate/workshop/DockerCompose/How_to_Install_Docker_Compose.html) </li></ol> |
+| Week2| 5  | <ol><li> [Docker and Docker Compose Exercise](https://drive.google.com/file/d/1CFbnccik2Kh2u6c064Z86iMw8BPdRrZu/view?usp=sharing) </li></ol> |  |  |
+| Week3| 1  |  ... | ... | ... |
+| Week3| 2  |  ... | ... | ... |
+| Week3| 3  |  ... | ... | ... |
+| Week3| 4  |  ... | ... | ... |
+| Week3| 5  |  ... | ... | ... |
+| Week4| 1  |  ... | ... | ... |
+| Week4| 2  |  ... | ... | ... |
+| Week4| 3  |  ... | ... | ... |
+| Week4| 4  |  ... | ... | ... |
+| Week4| 5  |  ... | ... | ... |
+| Week5| 1  |  ... | ... | ... |
+| Week5| 2  |  ... | ... | ... |
+| Week5| 3  |  ... | ... | ... |
+| Week5| 4  |  ... | ... | ... |
+| Week5| 5  |  ... | ... | ... |
+| Week6| 1  |  ... | ... | ... |
+| Week6| 2  |  ... | ... | ... |
+| Week6| 3  |  ... | ... | ... |
+| Week6| 4  |  ... | ... | ... |
+| Week6| 5  |  ... | ... | ... |
