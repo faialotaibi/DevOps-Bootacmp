@@ -12,7 +12,7 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 
 | Topics |
 | :--- |
-| ... |
+| <ul> <li>Git Basics</li> <br> <li>Git Branches</li> <br> <li>Git Merge and Rebase</li> <br> <li>Cherry Pick</li> <br> <li>Git Remotes</li> </ul> |
 
 
 
@@ -20,7 +20,7 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 
 | Topics |
 | :--- |
-| .... |
+| <ul> <li>Docker Images</li> <br> <li>Docker Containers</li> <br> <li>Docker Volumes</li> <br> <li>Docker Networking</li> <br> <li>Building Images with Docker</li> <br> <li>Docker Compose</li></ul> |
 
 ## Unit 03 \(CI/CD using GitHub Actions \)
 
