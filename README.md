@@ -26,7 +26,7 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 
 | Topics |
 | :--- |
-| .... |
+| <ul> <li>CI/CD Concept</li> <br> <li>CI/CD Tools Exploring</li> <br> <li>Bash Scripting</li>  <br> <li>GitHub Actions</li> </ul> |
 
 ## Unit 04 \(Alibaba Cloud \)
 
@@ -74,8 +74,8 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 | Week3| 1  |  <ol><li>[Introduction to CI/CD](https://circleci.com/ci-cd/)</li><li>Overview of CI/CD Tools <ol><li>[Jenkins](https://www.jenkins.io/)</li> <li>[CircleCI](https://circleci.com/)</li>  <li>[GitLab CI/CD](https://docs.gitlab.com/ee/ci/)</li> <li>[GitHub Actions](https://github.com/features/actions)</li></ol> <li>[Pipeline Designing Techniques](https://www.browserstack.com/guide/building-ci-cd-pipeline)</li> </ol> | <ol><li> [Research Task](https://satr.codes/course/DDIqRSoiua/session/b491c393-e6bc-49c1-895d-40db6ada4905/view)</li>  <li>[Pipeline Design Lab](https://satr.codes/course/qTpabYcFrh/session/82c16616-63bb-44c3-aaaf-13f9b3ba8f99/view)</li> </ol> | <ol><li>[CI/CD Course 1](https://satr.codes/course/DDIqRSoiua/view)</li><li>[CI/CD Course 2](https://satr.codes/course/qTpabYcFrh/view)</li></ol> |
 | Week3| 2  |  <ol><li>[Basics of Bash Scripting](https://github.com/faialotaibi/DevOps-Bootacmp/blob/main/week03/bash-scripting.md)</li></ol> | <ol><li>[Lab 1](https://satr.codes/course/PjZicrpjiz/session/dd5477e1-6739-4d1d-9637-c818d5184be1/view)</li><li>[Lab 2](https://satr.codes/course/PFzwaZCOTV/session/c022dee4-8b0c-4761-8e75-a2fcb825a274/view)</li></ol> | <ol> <li>[Bash Course 1](https://satr.codes/course/SeKcdRBnEj/view)</li> <li>[Bash Course 2](https://satr.codes/course/rwzGgfjiUQ/view)</li> <li>[Bash Course 3](https://satr.codes/course/PjZicrpjiz/view)</li> <li>[Bash Course 4](https://satr.codes/course/PFzwaZCOTV/view)</li> <li>[Bash Course 5](https://satr.codes/course/xKFakzkzVs/view)</li> <li>[Bash Course 6](https://satr.codes/course/UqoNYCliHF/view)</li> </ol>|
 | Week3| 3  |  <ol> <li>[Overview of GitHub Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)  <ol><li>Core components of GitHub Actions (Workflows, Jobs, Steps, Actions)</li></ol></li>  <li>[Creating and Setting Up Your First Workflow](https://docs.github.com/en/actions/writing-workflows/quickstart)</li>  <li>[GitHub Marketplace](https://github.com/marketplace?type=)</li></ol> | ... | <ol><li>[GitHub Actions Course 1](https://satr.codes/course/CTOIXnlPmi/view)</li> <li>[GitHub Actions Course 2](https://satr.codes/course/OdSRnxBBSf/view)</li></ol> |
-| Week3| 4  |  <ol><li>Building and Executing a Complete CI/CD Pipeline</li></ol> | ... | ... |
-| Week3| 5  |  <ol><li>[Containerized Application with Git, Docker, and GitHub Actions Project](https://drive.google.com/file/d/1U6P5wKpQ-Z7RGCpt-jQe7WP3pSTqPSs3/view?usp=sharing)</li></ol> | ... | ... |
+| Week3| 4  |  <ol><li>Building and Executing a Complete CI/CD Pipeline</li></ol> |  |  |
+| Week3| 5  |  <ol><li>[Containerized Application with Git, Docker, and GitHub Actions Project](https://drive.google.com/file/d/1U6P5wKpQ-Z7RGCpt-jQe7WP3pSTqPSs3/view?usp=sharing)</li></ol> |  |  |
 | Week4| 1  |  ... | ... | ... |
 | Week4| 2  |  ... | ... | ... |
 | Week4| 3  |  ... | ... | ... |
