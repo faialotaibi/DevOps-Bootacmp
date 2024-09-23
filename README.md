@@ -76,18 +76,18 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 | Week3| 3  |  <ol> <li>[Overview of GitHub Actions](https://docs.github.com/en/actions/about-github-actions/understanding-github-actions)  <ol><li>Core components of GitHub Actions (Workflows, Jobs, Steps, Actions)</li></ol></li>  <li>[Creating and Setting Up Your First Workflow](https://docs.github.com/en/actions/writing-workflows/quickstart)</li>  <li>[GitHub Marketplace](https://github.com/marketplace?type=)</li></ol> | ... | <ol><li>[GitHub Actions Course 1](https://satr.codes/course/CTOIXnlPmi/view)</li> <li>[GitHub Actions Course 2](https://satr.codes/course/OdSRnxBBSf/view)</li></ol> |
 | Week3| 4  |  <ol><li>Building and Executing a Complete CI/CD Pipeline</li></ol> |  |  |
 | Week3| 5  |  <ol><li>[Containerized Application with Git, Docker, and GitHub Actions Project](https://drive.google.com/file/d/1U6P5wKpQ-Z7RGCpt-jQe7WP3pSTqPSs3/view?usp=sharing)</li></ol> |  |  |
-| Week4| 1  |  ... | ... | ... |
+| Week4| 1  |  <ol> <li>Introduction to Cloud Computing <ol><li>[Definition of cloud computing (IaaS, PaaS, SaaS)](https://www.redhat.com/en/topics/cloud-computing/iaas-vs-paas-vs-saas)</li><li>[Cloud deployment models (Public, Private, Hybrid)](https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud)</li></ol></li> <li>Comparison of the Three Cloud Providers <ol><li>[Alibaba Cloud](https://www.alibabacloud.com/help/en)</li> <li>[AWS](https://docs.aws.amazon.com/)</li> <li>[Google Cloud](https://cloud.google.com/docs)</li> </ol> </li> <li>Setting up Accounts and Environments</li></ol> | ... | ... |
 | Week4| 2  |  ... | ... | ... |
 | Week4| 3  |  ... | ... | ... |
-| Week4| 4  |  ... | ... | ... |
-| Week4| 5  |  ... | ... | ... |
-| Week5| 1  |  ... | ... | ... |
-| Week5| 2  |  ... | ... | ... |
-| Week5| 3  |  ... | ... | ... |
-| Week5| 4  |  ... | ... | ... |
-| Week5| 5  |  ... | ... | ... |
-| Week6| 1  |  ... | ... | ... |
-| Week6| 2  |  ... | ... | ... |
-| Week6| 3  |  ... | ... | ... |
-| Week6| 4  |  ... | ... | ... |
-| Week6| 5  |  ... | ... | ... |
+| Week4| 4  |  <ol><li>[Computing Services in Alibaba Cloud](https://www.alibabacloud.com/help/en)</li> <li>[Networking in Alibaba Cloud](https://www.alibabacloud.com/help/en)</li> <li>[Security in Alibaba Cloud](https://www.alibabacloud.com/help/en)</li> </ol> | ... | ... |
+| Week4| 5  |  <ol> <li>[Introduction to Terraform](https://developer.hashicorp.com/terraform/docs)</li> <li>[Terraform Syntax](https://developer.hashicorp.com/terraform/language/syntax/json)</li> <li>Using Terraform with Alibaba Cloud <ol> <li>[Alibaba Provider in Terraform](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs)</li> <li>Hands-on: [Diagram]()</li> </ol>  </li> </ol> | ... | ... |
+| Week5| 1  |  <ol><li>[Alibaba Cloud with Terraform Lab](https://drive.google.com/file/d/1X8O-FDUNwTwvb-_MhRl_iJxePoqYbVEl/view?usp=sharing)</li></ol> | ... | ... |
+| Week5| 2  |   <ol><li>[Computing Services in AWS](https://docs.aws.amazon.com/)</li> <li>[Networking in AWS](https://docs.aws.amazon.com/)</li> <li>[Security in AWS](https://docs.aws.amazon.com/)</li> </ol> | ... | ... |
+| Week5| 3  |  <ol><li>Using Terraform with AWS <ol> <li>[AWS provider in Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)</li> <li>Hands-on: [Diagram]()</li></ol> | ... | ... |
+| Week5| 4  |  <ol><li>[AWS with Terraform Lab](https://drive.google.com/file/d/1KRAfLV3ELDwjQiaWanB9Wjoib4gUvtmc/view?usp=sharing)</li></ol> | ... | ... |
+| Week5| 5  |  <ol><li>[Computing Services in Google Cloud](https://cloud.google.com/docs/compute-area)</li> <li>[Networking in Google Cloud](https://cloud.google.com/docs/networking)</li> <li>[Security in Google Cloud](https://cloud.google.com/docs/security)</li> | ... | ... |
+| Week6| 1  |  <ol><li>Using Terraform with Google Cloud <ol> <li>[Google Cloud provider in Terraform](https://registry.terraform.io/providers/hashicorp/google/latest/docs)</li> <li>Hands-on: [Diagram]()</li></ol> | ... | <ol><li>[Google Cloud with Terraform Homework](https://drive.google.com/file/d/1r2A9knAX5rZDyd7LTjLO0RyRr1StDOzi/view?usp=sharing)</li></ol> |
+| Week6| 2  |  <ol><li>Capstone Project</li></ol> |  |  |
+| Week6| 3  |  <ol><li>Capstone Project</li></ol> |  |  |
+| Week6| 4  |  <ol><li>Capstone Project</li></ol> |  |  |
+| Week6| 5  |  <ol><li>Capstone Project</li></ol> |  |  |
