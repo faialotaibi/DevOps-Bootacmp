@@ -3,9 +3,9 @@
 Hi everyone, welcome to DevOps bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
-| - | Days | Time |
-| --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 4PM - 9pm  |
+| - | Days | Time | Communication |
+| --- | ------------- | ------------- | ---------- |
+| Class | Sun - Thurs  | 4PM - 9pm  | Discord: https://safcsp.slack.com/archives/D01F0644EBF/p1727192048140739
 
 
 ## Unit 01 \(Git & GitHub \)
