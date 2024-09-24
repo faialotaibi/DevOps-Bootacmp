@@ -32,19 +32,19 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 
 | Topics |
 | :--- |
-| .... |
+| <ul> <li>Computing Services in Alibaba Cloud</i> <li>Networking in Alibaba Cloud</li> <li>Security in Alibaba Cloud</li> <li>Using Terraform with Alibaba Cloud</li></ul> |
 
 ## Unit 05 \(Amazon Web Services AWS \)
 
 | Topics |
 | :--- |
-| .... |
+| <ul> <li>Computing Services in AWS</i> <li>Networking in AWS</li> <li>Security in AWS</li> <li>Using Terraform with AWS</li></ul> |
 
 ## Unit 06 \(Google Cloud Platform GCP \)
 
 | Topics |
 | :--- |
-| .... |
+| <ul> <li>Computing Services in GCP</i> <li>Networking in GCP</li> <li>Security in GCP</li> <li>Using Terraform with GCP</li></ul> |
 
 
 ## What We Expect From You
