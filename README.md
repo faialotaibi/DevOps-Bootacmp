@@ -79,7 +79,7 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 | Week4| 1  | <ol> <li>[ECS with ApsaraDB RDS](https://github.com/faialotaibi/ECS-with-ApsaraDB-RDS/tree/main)</li> <li>[Introduction to Terraform](https://developer.hashicorp.com/terraform/docs)</li> <li>[Download Terraform](https://developer.hashicorp.com/terraform/install)</li><li>[Terraform Syntax](https://developer.hashicorp.com/terraform/language/syntax/json)</li> <li>Using Terraform with Alibaba Cloud <ol> <li>[Alibaba Provider in Terraform](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs)</li> <li>Hands-on: [Diagram](https://drive.google.com/file/d/1Jf_OQLEgaAG6FlyLLypEZuvH2VGVqsqf/view?usp=sharing)</li> </ol>  </li> </ol> | ... | ... |
 | Week4| 2  |  ... | ... | ... |
 | Week4| 3  |  ... | ... | ... |
-| Week4| 4  | <ol><li>[Alibaba Cloud with Terraform Lab](https://drive.google.com/file/d/1X8O-FDUNwTwvb-_MhRl_iJxePoqYbVEl/view?usp=sharing)</li></ol> | ... | ... |
+| Week4| 4  | <ol><li>[Alibaba Cloud with Terraform Lab](https://drive.google.com/file/d/1QJLZTuwu4ZGnVXr3TjdHXTD-RpkclBqt/view?usp=sharing)</li></ol> | ... | ... |
 | Week4| 5  |  <ol><li>[Computing Services in AWS](https://docs.aws.amazon.com/)</li></ol> | ... | ... |
 | Week5| 1  | <ol> <li>[Networking in AWS](https://docs.aws.amazon.com/)</li> <li>[Security in AWS](https://docs.aws.amazon.com/)</li> </ol> | ... | ... |
 | Week5| 2  | <ol><li>Using Terraform with AWS <ol> <li>[AWS provider in Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)</li> <li>Hands-on: [Diagram](https://drive.google.com/file/d/1GwP1QCwgl83A3GwkBf3QFKg1Jdb1vdvF/view?usp=sharing)</li></ol> | ... | ... |
