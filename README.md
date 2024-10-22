@@ -82,11 +82,11 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 | Week4| 4  | <ol><li>[Flask App](https://github.com/faialotaibi/docker-compose-flask-app/tree/main)</li><li>[Alibaba Cloud with Terraform Lab](https://drive.google.com/file/d/1QJLZTuwu4ZGnVXr3TjdHXTD-RpkclBqt/view?usp=sharing)</li></ol> | ... | ... |
 | Week4| 5  |  <ol><li>[Alibaba IaC](https://github.com/askhalil/terraform-lab)</li></ol> | ... | ... |
 | Week5| 1  | <ol> <li>[Alibaba Load Balancers in Terraform](https://registry.terraform.io/providers/aliyun/alicloud/latest/docs/resources/nlb_load_balancer)</li> </ol> | ... | ... |
-| Week5| 2  | <ol><li>[Computing Services in AWS](https://docs.aws.amazon.com/)</li> <li>[Networking in AWS](https://docs.aws.amazon.com/)</li> <li>[Security in AWS](https://docs.aws.amazon.com/)</li><li>Using Terraform with AWS <ol> <li>[AWS provider in Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)</li> <li>Hands-on: [Diagram](https://drive.google.com/file/d/1GwP1QCwgl83A3GwkBf3QFKg1Jdb1vdvF/view?usp=sharing)</li></ol> | ... | ... |
-| Week5| 3  |  <ol><li>[AWS with Terraform Lab](https://drive.google.com/file/d/1KRAfLV3ELDwjQiaWanB9Wjoib4gUvtmc/view?usp=sharing)</li></ol>  | ... | ... |
-| Week5| 4  | <ol><li>[Computing Services in Google Cloud](https://cloud.google.com/docs/compute-area)</li></ol> | ... | ... |
-| Week5| 5  |  <ol> <li>[Networking in Google Cloud](https://cloud.google.com/docs/networking)</li> <li>[Security in Google Cloud](https://cloud.google.com/docs/security)</li> | ... | ... |
-| Week6| 1  |  <ol><li>Using Terraform with Google Cloud <ol> <li>[Google Cloud provider in Terraform](https://registry.terraform.io/providers/hashicorp/google/latest/docs)</li> <li>Hands-on: [Diagram]()</li></ol> | ... | <ol><li>[Google Cloud with Terraform Homework](https://drive.google.com/file/d/1r2A9knAX5rZDyd7LTjLO0RyRr1StDOzi/view?usp=sharing)</li></ol> |
+| Week5| 2  | <ol><li>[AWS with Terraform](https://github.com/askhalil/terraform-aws)</li><li>[Computing Services in AWS](https://docs.aws.amazon.com/)</li> <li>[Networking in AWS](https://docs.aws.amazon.com/)</li> <li>[Security in AWS](https://docs.aws.amazon.com/)</li><li>Using Terraform with AWS <ol> <li>[AWS provider in Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)</li>  | ... | ... |
+| Week5| 3  |  <ol><li>[Computing Services in Google Cloud](https://cloud.google.com/docs/compute-area)</li><li>[Networking in Google Cloud](https://cloud.google.com/docs/networking)</li><li>[Security in Google Cloud](https://cloud.google.com/docs/security)</li></ol>  | ... | ... |
+| Week5| 4  | ... | ... | ... |
+| Week5| 5  |  ...  | ... | ... |
+| Week6| 1  |  <ol><li>Capstone Project</li></ol> |
 | Week6| 2  |  <ol><li>Capstone Project</li></ol> |  |  |
 | Week6| 3  |  <ol><li>Capstone Project</li></ol> |  |  |
 | Week6| 4  |  <ol><li>Capstone Project</li></ol> |  |  |
