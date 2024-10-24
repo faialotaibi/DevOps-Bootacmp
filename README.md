@@ -85,7 +85,7 @@ Hi everyone, welcome to DevOps bootcamp. This repository contains informations, 
 | Week5| 2  | <ol><li>[AWS with Terraform](https://github.com/askhalil/terraform-aws)</li><li>[Computing Services in AWS](https://docs.aws.amazon.com/)</li> <li>[Networking in AWS](https://docs.aws.amazon.com/)</li> <li>[Security in AWS](https://docs.aws.amazon.com/)</li><li>Using Terraform with AWS <ol> <li>[AWS provider in Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)</li>  | ... | ... |
 | Week5| 3  |  <ol><li>[Computing Services in Google Cloud](https://cloud.google.com/docs/compute-area)</li><li>[Networking in Google Cloud](https://cloud.google.com/docs/networking)</li><li>[Security in Google Cloud](https://cloud.google.com/docs/security)</li></ol>  | ... | ... |
 | Week5| 4  | <ol><li>Load Balancers in GCP</li></oil> | ... | ... |
-| Week5| 5  |  <ol><li>[Terraform with s3](https://developer.hashicorp.com/terraform/language/backend/s3#s3)</li></oil>  | ... | ... |
+| Week5| 5  |  <ol><li>[Terraform with s3](https://developer.hashicorp.com/terraform/language/backend/s3#s3)</li><li>[Terraform with GitHub Actions](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions)</li></oil>  | ... | ... |
 | Week6| 1  |  <ol><li>Capstone Project</li></ol> |
 | Week6| 2  |  <ol><li>Capstone Project</li></ol> |  |  |
 | Week6| 3  |  <ol><li>Capstone Project</li></ol> |  |  |
